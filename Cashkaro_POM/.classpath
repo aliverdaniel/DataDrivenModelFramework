@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="F:/Selenium/Important jars/selenium-server-standalone-3.141.5.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Important jars/Excel jars/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Important jars/Excel jars/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Important jars/Excel jars/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Important jars/Excel jars/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Important jars/Excel jars/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Important jars/testng-6.14.3.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Important jars/commons-io-1.3.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

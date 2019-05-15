@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/Learning/Selenium Updations/lib/dom4j-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Learning/Selenium Updations/lib/poi-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="D:/Learning/Selenium Updations/lib/poi-ooxml-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="D:/Learning/Selenium Updations/lib/poi-ooxml-schemas-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="D:/Learning/Selenium Updations/lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Learning/Selenium Updations/selenium-2.53.1/selenium-java-2.53.1.jar"/>
+	<classpathentry kind="lib" path="D:/Learning/Selenium Updations/selenium-2.53.1/selenium-java-2.53.1-srcs.jar"/>
+	<classpathentry kind="lib" path="D:/Learning/Selenium Updations/selenium-server-standalone-2.53.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

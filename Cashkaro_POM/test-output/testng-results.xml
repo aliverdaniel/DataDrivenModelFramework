@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="87397" started-at="2019-04-26T12:57:17Z" finished-at="2019-04-26T12:58:45Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="87397" started-at="2019-04-26T12:57:17Z" finished-at="2019-04-26T12:58:45Z">
+      <class name="com.openedge.pacreation.Friday">
+        <test-method status="PASS" signature="FridayBeforeClass()[pri:0, instance:com.openedge.pacreation.Friday@62ee68d8]" name="FridayBeforeClass" is-config="true" duration-ms="52625" started-at="2019-04-26T12:57:17Z" finished-at="2019-04-26T12:58:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FridayBeforeClass -->
+        <test-method status="PASS" signature="FridayLoadTestCase()[pri:0, instance:com.openedge.pacreation.Friday@62ee68d8]" name="FridayLoadTestCase" is-config="true" duration-ms="242" started-at="2019-04-26T12:58:10Z" finished-at="2019-04-26T12:58:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FridayLoadTestCase -->
+        <test-method status="PASS" signature="fridayTest()[pri:0, instance:com.openedge.pacreation.Friday@62ee68d8]" name="fridayTest" duration-ms="29487" started-at="2019-04-26T12:58:11Z" finished-at="2019-04-26T12:58:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fridayTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.openedge.pacreation.Friday@62ee68d8]" name="afterMethod" is-config="true" duration-ms="4812" started-at="2019-04-26T12:58:40Z" finished-at="2019-04-26T12:58:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.openedge.pacreation.Friday -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
